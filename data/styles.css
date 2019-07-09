@@ -58,7 +58,7 @@
 ._连接线 {
 }
 .box_11 {
-  font-family:'微软雅黑';
+  font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
   color:#FFFFFF;
@@ -147,7 +147,7 @@
   text-align:left;
 }
 ._次按钮（动作列表） {
-  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
+  font-family:'Heiti SC Regular', 'Heiti SC';
   font-weight:200;
   font-style:normal;
   font-size:18px;
@@ -155,7 +155,7 @@
   text-align:center;
 }
 ._退出按钮（动作列表） {
-  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
+  font-family:'Heiti SC Regular', 'Heiti SC';
   font-weight:200;
   font-style:normal;
   font-size:18px;
@@ -304,7 +304,7 @@
 .shape2 {
 }
 ._次按钮（动作列表）1 {
-  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
+  font-family:'Heiti SC Regular', 'Heiti SC';
   font-weight:200;
   font-style:normal;
   font-size:18px;
@@ -312,7 +312,7 @@
   text-align:center;
 }
 ._退出按钮（动作列表）1 {
-  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
+  font-family:'Heiti SC Regular', 'Heiti SC';
   font-weight:200;
   font-style:normal;
   font-size:18px;
